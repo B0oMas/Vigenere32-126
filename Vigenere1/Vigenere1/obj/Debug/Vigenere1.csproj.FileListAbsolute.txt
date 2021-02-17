@@ -1,0 +1,10 @@
+C:\Users\Lukas\Desktop\Vigenere1\Vigenere1\bin\Debug\Vigenere1.exe.config
+C:\Users\Lukas\Desktop\Vigenere1\Vigenere1\bin\Debug\Vigenere1.exe
+C:\Users\Lukas\Desktop\Vigenere1\Vigenere1\bin\Debug\Vigenere1.pdb
+C:\Users\Lukas\Desktop\Vigenere1\Vigenere1\obj\Debug\Vigenere1.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\Vigenere1\Vigenere1\obj\Debug\Vigenere1.Form1.resources
+C:\Users\Lukas\Desktop\Vigenere1\Vigenere1\obj\Debug\Vigenere1.Properties.Resources.resources
+C:\Users\Lukas\Desktop\Vigenere1\Vigenere1\obj\Debug\Vigenere1.csproj.GenerateResource.cache
+C:\Users\Lukas\Desktop\Vigenere1\Vigenere1\obj\Debug\Vigenere1.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Vigenere1\Vigenere1\obj\Debug\Vigenere1.exe
+C:\Users\Lukas\Desktop\Vigenere1\Vigenere1\obj\Debug\Vigenere1.pdb
